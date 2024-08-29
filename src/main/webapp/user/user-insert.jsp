@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="/user/user-insert-ok.jsp" method="Get">
+<form action="/user/user-insert-ok.jsp" method="GET">
 	ID : <input type="text" name="uiId"><br>
 	비밀번호 : <input type="password" name="uiPwd"><br>
 	이름 : <input type="text" name="uiName"><br>
